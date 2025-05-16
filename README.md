@@ -1,17 +1,16 @@
 <img src="images/seraphbanner.jpg">
   <p align="center">
-    seraph; an open source game website that hosts 350+ games with customisable settings, full rehosting support and a beautiful design
+    seraph-modded; an open source game website that hosts 350+ games with customisable settings, full rehosting support and a beautiful design
     <br/>
-    <a href="https://seraph.reveriestudios.online/">view demo</a>
+    <a href="https://seraph.reveriestudios.online/">view demo / official seraph</a>
     ·
-    <a href="https://github.com/a456pur/seraph/issues/new/choose">report issues / request feature</a>
+    <a href="https://github.com/gyraee/seraph-modded/issues/new/choose">report issues / request feature</a>
     ·
-    <a href="https://discord.gg/ZyZDmx3zuQ">discord</a>
     <br>
     <br>
-    <img src="https://img.shields.io/github/repo-size/a456pur/seraph?style=for-the-badge&labelColor=%23000000&color=%231c1c1c">
-    <img src="https://img.shields.io/github/stars/a456pur/seraph?style=for-the-badge&labelColor=%23000000&color=%231c1c1c">
-    <img src="https://img.shields.io/github/forks/a456pur/seraph?style=for-the-badge&labelColor=000000&color=1c1c1c">
+    <img src="https://img.shields.io/github/repo-size/gyraee/seraph-modded?style=for-the-badge&labelColor=%23000000&color=%231c1c1c">
+    <img src="https://img.shields.io/github/stars/gyraee/seraph-modded?style=for-the-badge&labelColor=%23000000&color=%231c1c1c">
+    <img src="https://img.shields.io/github/forks/gyraee/seraph-modded?style=for-the-badge&labelColor=000000&color=1c1c1c">
   </p>
 
 ## features
@@ -31,6 +30,7 @@
 **credits**
 - lifesaskit: background contributions (azure, cosmic, ethereal, ghostly, metro, retro)
 - skysthelimit: additional assistance
+- gyraee: additional contributions
 
 **game assets**
 - 3kh0: [game asset repository](https://github.com/3kh0/3kh0-Assets)
@@ -38,6 +38,7 @@
 - nate-games: [nate-games repository](https://github.com/nate-games/nate-games.xyz)
 
 **contributions**
+- gyraee: website suggestions
 - heheheha12345678: game suggestions, bug reporting, website suggestions
 - synth_0: game suggestions, website suggestions
 - tommiecc: game suggestions, bug reporting
@@ -56,7 +57,7 @@ although i dont mind not being credited, please don't just do something as simpl
 tldr; take anything game/app you want without credit!! add/modify seraph if you want, however don't replace my credit on the actual site if you can
 
 ## contributing
-you can contribute to seraph in multiple ways by [raising issues on the github](https://github.com/a456pur/seraph/issues/new/choose), which can include:
+you can contribute to seraph in multiple ways by [raising issues on the github](https://github.com/gyraee/seraph-modded/issues/new/choose), which can include:
 - **game suggestions:** suggest games to be added to seraph! provide a link if possible to the game to make it easier to add
 - **website suggestions:** suggest features to be added to the website
 - **website bugs:** report bugs you are experiencing with the website (not inside a game), providing some simple steps on how to replicate the bug
