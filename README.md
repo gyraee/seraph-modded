@@ -8,7 +8,7 @@
     ·
     <br>
     <br>
-    <img src="https://img.shields.io/github/repo-size/gyraee/seraph-moddedh?style=for-the-badge&labelColor=%23000000&color=%231c1c1c">
+    <img src="https://img.shields.io/github/repo-size/gyraee/seraph-modded?style=for-the-badge&labelColor=%23000000&color=%231c1c1c">
     <img src="https://img.shields.io/github/stars/gyraee/seraph-modded?style=for-the-badge&labelColor=%23000000&color=%231c1c1c">
     <img src="https://img.shields.io/github/forks/gyraee/seraph-modded?style=for-the-badge&labelColor=000000&color=1c1c1c">
   </p>
