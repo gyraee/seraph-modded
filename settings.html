@@ -13,7 +13,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link rel="shortcut icon" href="images/ico.ico" type="image/x-icon">
         <link rel="stylesheet" href="storage/css/settings.css">
-        <title>Settings | Seraph</title>
+        <title>Settings | Seraph - Modded</title>
 
         <meta name="description" content="an open source games site hosting 500+ games, useful utilities, powerful settings + a clean user interface">
         <meta property="og:site_name" content="seraph">
@@ -73,7 +73,7 @@
             <h2 style="margin: 0;">themes</h2>
             <br>
             <select id="theme-select">
-                <option value="seraph">seraph</option>
+                <option value="seraphm">seraph modded</option>
                 <option value="azurite">azurite</option>
                 <option value="retro">retro</option>
                 <option value="cosmic">cosmic</option>
@@ -97,8 +97,15 @@
         
                 <div class="theme-property">
                     <label for="font-family">font family:</label>
-                    <input type="text" id="font-family" value="Ubuntu">
-                </div>
+                    <select id="font-family">
+                      <option value="impact">impact</option>
+                      <option value="inconsolata">inconsolata</option>
+                      <option value="palatino">palatino</option>
+                      <option value="pixelifysans">pixelifysans</option>
+                      <option value="raleway">raleway</option>
+                      <option value="ubuntu" selected>ubuntu</option>
+                    </select>
+                  </div>
         
                 <div class="theme-property">
                     <label for="text-color">text colour:</label>

@@ -3,7 +3,7 @@ name: "\U0001F41E website bug"
 about: if your experiencing a bug with the website, use this template
 title: "[Website Bug] "
 labels: website bug
-assignees: a456pur
+assignees: gyraee
 
 ---
 

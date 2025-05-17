@@ -3,7 +3,7 @@ name: "⌨ game bug"
 about: if your experiencing a bug with a game on the website, use this template
 title: "[Game Bug] "
 labels: game-specific bug
-assignees: a456pur
+assignees: gyraee
 
 ---
 

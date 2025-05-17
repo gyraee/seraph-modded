@@ -346,7 +346,7 @@ document.getElementById('export-theme').addEventListener('click', function() {
         const url = URL.createObjectURL(blob);
         const a = document.createElement('a');
         a.href = url;
-        a.download = `seraph-${themeName}.theme`;
+        a.download = `sm-${themeName}.theme`;
         document.body.appendChild(a);
         a.click();
         document.body.removeChild(a);

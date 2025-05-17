@@ -46,16 +46,15 @@
         url('/storage/fonts/palatino/palatino.otf') format('otf');
 }
 
-
 :root {
-    --background-image: url('/images/backgrounds/seraph/homebg.jpg');
-    --font-family: 'Ubuntu', sans-serif;
-    --text-color: #fff;
-    --background-color: black;
-    --border-color1: #000000;
-    --border-color2: #ffffff;
-    --hover-color: #1a1818;
-    --text-glow: #000000
+    --background-image: url('https://files.catbox.moe/5992ip.png');
+    --font-family: 'PixelifySans', sans-serif;
+    --text-color: #40e6f2;
+    --background-color: #080808;
+    --border-color1: #080808;
+    --border-color2: #787878;
+    --hover-color: #0a4347;
+    --text-glow: #2d3c3e
 }
 
 :root.theme-azurite {

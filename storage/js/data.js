@@ -21,7 +21,7 @@ function exportData() {
     const link = document.createElement('a');
     const currentDate = new Date().toISOString().slice(0, 10);
     link.href = URL.createObjectURL(blob);
-    link.download = `seraphdata-${currentDate}.save`;
+    link.download = `smdata-${currentDate}.save`;
 
     document.body.appendChild(link);
     link.click();

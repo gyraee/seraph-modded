@@ -1,7 +1,7 @@
 @import url('/storage/css/themes.css');
 
 :root {
-    --background-image: url('/images/backgrounds/seraph/settingsbg.jpg');
+    --background-image: url('https://files.catbox.moe/5992ip.png');
 }
 :root.theme-azurite {
     --background-image: url('/images/backgrounds/azure/settingsbg.jpg');

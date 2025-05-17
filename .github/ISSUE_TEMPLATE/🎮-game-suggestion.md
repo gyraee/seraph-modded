@@ -3,7 +3,7 @@ name: "\U0001F3AE game suggestion"
 about: suggest a game to be added to seraph
 title: "[Game Suggestion] "
 labels: game addition
-assignees: a456pur
+assignees: gyraee
 
 ---
 
